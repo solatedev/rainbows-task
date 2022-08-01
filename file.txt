@@ -1,4 +1,4 @@
-cars are red
-cars are blue
-cars are yellow
-cars are cars
+Rainbows are red
+Rainbows are blue
+Rainbows are yellow
+Rainbows are Rainbows
